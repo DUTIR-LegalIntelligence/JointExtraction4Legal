@@ -1,0 +1,300 @@
+26 29 44 47 provide_shelter_for | 26 29 48 51 provide_shelter_for | 26 29 52 55 provide_shelter_for | 26 29 56 58 provide_shelter_for | 99 102 52 55 NA | 80 90 56 58 NA
+24 27 82 84 sell_drugs_to | 24 27 61 64 traffic_in | 54 58 24 27 NA | 34 47 7 19 NA
+82 85 88 90 posess | 82 85 97 99 posess | 82 85 65 68 provide_shelter_for | 82 85 69 72 provide_shelter_for | 33 44 65 68 NA | 97 99 99 104 NA
+12 14 60 62 sell_drugs_to | 12 14 45 50 traffic_in | 12 14 93 95 sell_drugs_to | 182 184 250 252 sell_drugs_to | 182 184 253 255 sell_drugs_to | 285 287 215 223 NA | 45 50 12 14 NA
+148 151 165 167 provide_shelter_for | 48 62 124 127 NA | 102 105 136 138 NA
+89 92 123 125 posess | 167 169 69 72 NA | 69 72 142 144 NA
+29 32 50 53 traffic_in | 50 53 97 102 NA | 29 32 155 158 NA
+54 56 59 61 provide_shelter_for | 54 56 66 68 provide_shelter_for | 54 56 31 45 NA | 16 29 66 68 NA
+27 29 53 58 traffic_in | 27 29 64 67 sell_drugs_to | 27 29 68 71 sell_drugs_to | 64 67 59 63 NA | 103 108 14 21 NA
+36 38 27 29 sell_drugs_to | 83 85 104 109 traffic_in | 11 25 159 164 NA | 217 222 153 158 NA
+21 23 39 41 sell_drugs_to | 21 23 45 50 traffic_in | 24 30 9 16 NA | 24 30 52 54 NA
+18 21 41 44 provide_shelter_for | 18 21 45 48 provide_shelter_for | 18 21 49 52 provide_shelter_for | 22 36 18 21 NA | 22 36 58 60 NA
+37 40 66 69 sell_drugs_to | 37 40 111 116 traffic_in | 19 32 43 60 NA | 84 88 104 108 NA
+99 101 193 198 posess | 239 241 99 101 NA | 193 198 249 256 NA
+50 52 69 71 traffic_in | 50 52 24 27 sell_drugs_to | 50 52 29 32 sell_drugs_to | 24 27 122 125 provide_shelter_for | 24 27 126 129 provide_shelter_for | 24 27 130 133 provide_shelter_for | 24 27 134 137 provide_shelter_for | 24 27 138 141 provide_shelter_for | 24 27 142 144 provide_shelter_for | 160 162 194 197 NA | 34 48 142 144 NA
+32 34 46 49 sell_drugs_to | 32 34 70 72 traffic_in | 14 27 102 107 NA | 35 41 83 88 NA
+90 93 99 101 provide_shelter_for | 119 122 59 62 NA | 6 22 73 88 NA
+52 54 43 45 sell_drugs_to | 105 107 119 124 traffic_in | 105 107 125 127 traffic_in | 193 195 14 28 NA | 246 251 105 107 NA
+52 55 14 17 sell_drugs_to | 52 55 63 65 traffic_in | 52 55 76 78 traffic_in | 110 113 127 129 posess | 110 113 145 147 posess | 14 17 145 147 NA | 127 129 145 147 NA
+58 60 97 99 posess | 28 30 14 21 NA | 121 123 61 68 NA
+127 129 156 161 posess | 103 105 164 166 NA | 164 166 14 26 NA
+24 27 70 73 sell_drugs_to | 24 27 108 113 traffic_in | 108 113 98 103 NA | 28 38 108 113 NA
+44 47 35 37 sell_drugs_to | 44 47 57 60 traffic_in | 90 97 69 71 NA | 86 88 57 60 NA
+10 13 174 179 posess | 10 13 197 200 posess | 197 200 165 170 NA | 109 115 45 56 NA
+32 35 25 28 sell_drugs_to | 58 61 65 70 traffic_in | 122 125 190 195 NA | 25 28 148 151 NA
+28 30 66 69 sell_drugs_to | 28 30 109 114 traffic_in | 28 30 39 48 NA | 66 69 117 121 NA
+34 37 39 44 posess | 166 169 52 59 NA | 110 111 129 132 NA
+34 37 72 75 traffic_in | 40 51 34 37 NA | 52 54 72 75 NA
+39 41 53 58 posess | 25 32 39 41 NA | 79 81 53 58 NA
+116 119 146 148 traffic_in | 116 119 150 153 sell_drugs_to | 30 33 250 253 NA | 66 87 179 180 NA
+31 34 45 48 provide_shelter_for | 31 34 49 52 provide_shelter_for | 14 27 45 48 NA | 45 48 49 52 NA
+26 29 35 38 provide_shelter_for | 26 29 39 42 provide_shelter_for | 35 38 48 51 NA | 48 51 39 42 NA
+71 74 91 93 sell_drugs_to | 71 74 105 110 traffic_in | 28 31 141 144 NA | 32 52 60 69 NA
+21 24 29 32 provide_shelter_for | 21 24 33 36 provide_shelter_for | 21 24 37 39 provide_shelter_for | 6 14 41 43 NA | 6 14 29 32 NA
+10 12 32 35 provide_shelter_for | 10 12 36 39 provide_shelter_for | 10 12 40 42 provide_shelter_for | 10 12 43 46 provide_shelter_for | 32 35 40 42 NA | 43 46 10 12 NA
+18 21 56 59 sell_drugs_to | 18 21 61 63 traffic_in | 134 137 128 130 traffic_in | 134 137 123 126 sell_drugs_to | 128 130 6 14 NA | 188 191 123 126 NA
+28 31 71 74 provide_shelter_for | 78 83 6 24 NA | 78 83 38 60 NA
+40 43 94 96 sell_drugs_to | 40 43 77 80 traffic_in | 44 67 94 96 NA | 106 109 44 67 NA
+20 22 26 28 provide_shelter_for | 20 22 29 31 provide_shelter_for | 20 22 32 34 provide_shelter_for | 20 22 35 38 provide_shelter_for | 20 22 39 42 provide_shelter_for | 32 34 76 78 NA | 45 63 35 38 NA
+33 36 59 62 sell_drugs_to | 33 36 15 28 NA | 221 226 144 147 NA
+31 34 85 88 sell_drugs_to | 31 34 52 55 traffic_in | 121 124 92 95 NA | 59 64 92 95 NA
+37 40 57 60 sell_drugs_to | 37 40 102 105 traffic_in | 57 60 19 32 NA | 41 52 102 105 NA
+17 20 101 103 sell_drugs_to | 17 20 146 151 traffic_in | 89 94 48 71 NA | 101 103 48 71 NA
+36 39 29 32 sell_drugs_to | 36 39 55 57 traffic_in | 124 127 152 155 sell_drugs_to | 55 57 152 155 NA | 29 32 152 155 NA
+44 46 21 24 sell_drugs_to | 44 46 65 70 traffic_in | 207 209 107 109 NA | 44 46 91 94 NA
+142 144 150 155 posess | 25 36 120 126 NA | 142 144 120 126 NA
+30 32 52 57 traffic_in | 30 32 81 84 sell_drugs_to | 30 32 85 87 sell_drugs_to | 30 32 81 84 NA | 128 130 163 167 NA
+25 28 46 49 sell_drugs_to | 25 28 115 120 traffic_in | 30 42 115 120 NA | 7 20 25 28 NA
+25 28 56 59 provide_shelter_for | 25 28 60 63 provide_shelter_for | 25 28 64 67 provide_shelter_for | 25 28 68 71 provide_shelter_for | 25 28 72 75 provide_shelter_for | 72 75 64 67 NA | 25 28 56 59 NA
+20 23 42 45 provide_shelter_for | 20 23 78 81 provide_shelter_for | 20 23 24 40 NA | 42 45 20 23 NA
+32 35 84 89 posess | 14 27 89 95 NA | 84 89 32 35 NA
+31 34 124 127 traffic_in | 13 26 31 34 NA | 77 83 31 34 NA
+26 29 107 112 posess | 7 21 36 38 NA | 107 112 36 38 NA
+19 21 75 77 sell_drugs_to | 19 21 81 86 traffic_in | 22 34 97 110 NA | 81 86 189 191 NA
+24 27 43 45 posess | 24 27 46 48 posess | 131 135 167 172 NA | 136 138 94 97 NA
+33 36 51 53 posess | 57 64 15 28 NA | 33 36 57 64 NA
+32 35 144 149 posess | 61 63 144 149 posess | 14 27 152 159 NA | 152 159 144 149 NA
+24 27 29 31 sell_drugs_to | 24 27 46 48 traffic_in | 108 111 132 134 traffic_in | 108 111 138 140 sell_drugs_to | 145 148 151 153 sell_drugs_to | 145 148 155 157 traffic_in | 151 153 108 111 NA | 46 48 100 103 NA
+69 72 81 84 sell_drugs_to | 69 72 85 88 sell_drugs_to | 69 72 89 92 sell_drugs_to | 69 72 93 95 sell_drugs_to | 69 72 96 99 sell_drugs_to | 17 20 81 84 provide_shelter_for | 17 20 85 88 provide_shelter_for | 17 20 89 92 provide_shelter_for | 17 20 93 95 provide_shelter_for | 17 20 96 99 provide_shelter_for | 69 72 85 88 NA | 32 42 76 78 NA
+25 28 76 79 sell_drugs_to | 25 28 87 92 traffic_in | 76 79 96 100 NA | 9 21 29 51 NA
+21 23 31 34 provide_shelter_for | 21 23 35 38 provide_shelter_for | 21 23 40 42 provide_shelter_for | 172 177 122 125 NA | 126 129 35 38 NA
+18 21 42 44 provide_shelter_for | 18 21 45 48 provide_shelter_for | 18 21 49 52 provide_shelter_for | 42 44 78 81 NA | 45 48 64 74 NA
+25 28 52 55 sell_drugs_to | 25 28 69 72 traffic_in | 159 162 175 178 NA | 155 158 159 162 NA
+30 33 59 62 sell_drugs_to | 30 33 87 92 traffic_in | 94 99 30 33 NA | 122 125 214 217 NA
+10 13 74 77 traffic_in | 10 13 82 84 sell_drugs_to | 10 13 111 113 provide_shelter_for | 10 13 137 140 traffic_in | 10 13 145 148 sell_drugs_to | 10 13 152 155 provide_shelter_for | 10 13 176 179 traffic_in | 10 13 184 187 sell_drugs_to | 10 13 188 190 sell_drugs_to | 412 415 485 488 NA | 357 359 261 264 NA
+30 33 54 57 traffic_in | 30 33 75 77 sell_drugs_to | 6 14 54 57 NA | 34 51 6 14 NA
+31 34 59 61 sell_drugs_to | 31 34 65 68 traffic_in | 90 93 104 106 sell_drugs_to | 90 93 110 113 traffic_in | 141 144 35 49 NA | 90 93 73 77 NA
+31 35 51 53 provide_shelter_for | 31 35 54 56 provide_shelter_for | 31 35 57 59 provide_shelter_for | 31 35 60 62 provide_shelter_for | 31 35 63 65 provide_shelter_for | 63 65 54 56 NA | 77 82 60 62 NA
+24 26 51 53 sell_drugs_to | 24 26 104 107 traffic_in | 24 26 107 112 NA | 74 76 95 98 NA
+53 56 67 70 provide_shelter_for | 53 56 71 73 provide_shelter_for | 119 122 135 137 provide_shelter_for | 168 171 25 41 NA | 113 118 25 41 NA
+64 67 72 77 posess | 92 97 130 135 NA | 107 113 53 56 NA
+64 67 55 58 sell_drugs_to | 64 67 51 54 traffic_in | 64 67 78 81 posess | 64 67 55 58 NA | 64 67 51 54 NA
+32 34 83 86 sell_drugs_to | 32 34 142 147 traffic_in | 32 34 171 174 traffic_in | 32 34 165 170 traffic_in | 132 137 36 54 NA | 83 86 171 174 NA
+25 27 55 58 provide_shelter_for | 25 27 59 62 provide_shelter_for | 25 27 63 66 provide_shelter_for | 25 27 67 70 provide_shelter_for | 32 48 55 58 NA | 154 156 59 62 NA
+62 64 76 79 posess | 88 95 154 161 NA | 35 46 62 64 NA
+49 52 55 57 traffic_in | 49 52 59 62 sell_drugs_to | 9 12 59 62 NA | 90 95 100 105 NA
+72 76 84 87 sell_drugs_to | 72 76 88 90 sell_drugs_to | 72 76 101 104 traffic_in | 88 90 42 56 NA | 101 104 72 76 NA
+24 27 47 50 sell_drugs_to | 24 27 54 57 traffic_in | 70 75 28 44 NA | 47 50 78 81 NA
+56 58 171 174 posess | 153 158 56 58 NA | 56 58 171 174 NA
+76 79 34 36 sell_drugs_to | 76 79 84 89 traffic_in | 76 79 96 99 traffic_in | 76 79 102 104 traffic_in | 37 40 280 282 NA | 81 84 261 266 NA
+31 33 60 62 provide_shelter_for | 31 33 63 66 provide_shelter_for | 31 33 14 26 NA | 31 33 85 87 NA
+32 34 47 50 sell_drugs_to | 32 34 52 54 traffic_in | 65 67 103 105 NA | 14 28 32 34 NA
+31 34 112 115 traffic_in | 112 115 31 34 NA | 112 115 35 48 NA
+34 37 69 74 posess | 34 37 82 85 posess | 34 37 91 95 posess | 91 95 34 37 NA | 38 48 69 74 NA
+41 44 92 97 posess | 154 157 100 102 NA | 41 44 108 113 NA
+32 35 78 81 posess | 101 112 32 35 NA | 157 166 123 126 NA
+27 29 58 60 sell_drugs_to | 27 29 64 67 traffic_in | 74 76 64 67 NA | 34 36 27 29 NA
+76 79 112 114 posess | 30 33 131 137 NA | 125 127 164 169 NA
+33 35 78 80 sell_drugs_to | 33 35 69 71 traffic_in | 97 99 140 145 traffic_in | 140 145 125 129 NA | 33 35 97 99 NA
+18 20 57 59 sell_drugs_to | 18 20 76 78 traffic_in | 76 78 57 59 NA | 40 54 160 165 NA
+23 26 57 59 sell_drugs_to | 23 26 44 46 traffic_in | 82 85 23 26 NA | 59 63 64 66 NA
+25 27 57 60 provide_shelter_for | 28 50 25 27 NA | 70 72 11 19 NA
+30 34 60 62 provide_shelter_for | 30 34 63 65 provide_shelter_for | 30 34 66 68 provide_shelter_for | 63 65 14 26 NA | 35 57 60 62 NA
+31 33 79 82 sell_drugs_to | 106 108 167 172 traffic_in | 106 108 159 164 NA | 128 131 159 164 NA
+25 29 59 61 sell_drugs_to | 79 83 93 95 sell_drugs_to | 32 46 25 29 NA | 169 174 25 29 NA
+41 44 22 25 sell_drugs_to | 144 147 248 253 traffic_in | 129 135 222 227 NA | 114 119 122 125 NA
+53 55 139 144 posess | 7 20 37 40 NA | 53 55 126 133 NA
+22 25 132 137 posess | 142 148 38 40 NA | 6 17 142 148 NA
+52 55 96 98 sell_drugs_to | 52 55 87 89 traffic_in | 34 47 182 187 NA | 124 126 147 152 NA
+33 36 107 110 sell_drugs_to | 33 36 98 103 traffic_in | 125 128 98 103 NA | 140 143 98 103 NA
+22 25 78 81 provide_shelter_for | 89 91 44 59 NA | 28 43 44 59 NA
+23 25 51 53 posess | 51 53 62 67 NA | 51 53 88 93 NA
+33 36 65 68 sell_drugs_to | 33 36 72 75 traffic_in | 37 49 33 36 NA | 15 28 72 75 NA
+73 76 82 85 posess | 73 76 98 100 posess | 98 100 144 147 NA | 24 27 125 128 NA
+33 35 65 68 sell_drugs_to | 93 95 113 116 traffic_in | 70 74 36 49 NA | 93 95 33 35 NA
+25 28 30 32 provide_shelter_for | 25 28 33 35 provide_shelter_for | 25 28 36 39 provide_shelter_for | 25 28 40 42 provide_shelter_for | 25 28 43 46 provide_shelter_for | 25 28 47 50 provide_shelter_for | 43 46 64 69 NA | 7 21 36 39 NA
+199 208 269 272 posess | 229 238 269 272 posess | 34 43 251 257 NA | 251 257 14 29 NA
+131 133 144 149 posess | 35 37 32 34 NA | 131 133 35 37 NA
+31 34 21 24 sell_drugs_to | 67 70 108 110 traffic_in | 225 229 235 240 NA | 117 120 71 97 NA
+33 36 133 136 traffic_in | 133 136 33 36 NA | 33 36 37 58 NA
+32 35 53 55 traffic_in | 162 164 114 116 NA | 72 74 162 164 NA
+26 29 64 67 sell_drugs_to | 26 29 79 82 traffic_in | 93 96 89 92 NA | 79 82 7 21 NA
+132 135 119 122 sell_drugs_to | 191 194 249 254 posess | 257 263 146 148 NA | 25 28 119 122 NA
+9 12 60 62 provide_shelter_for | 9 12 63 66 provide_shelter_for | 9 12 67 69 provide_shelter_for | 167 172 13 34 NA | 143 148 13 34 NA
+35 38 43 46 sell_drugs_to | 85 88 124 127 traffic_in | 55 68 43 46 NA | 17 30 85 88 NA
+29 33 39 42 sell_drugs_to | 74 78 103 110 traffic_in | 74 78 113 115 traffic_in | 130 133 229 233 NA | 121 124 134 137 NA
+23 26 55 58 sell_drugs_to | 23 26 60 67 traffic_in | 23 26 71 73 traffic_in | 71 73 79 84 NA | 6 18 29 39 NA
+24 27 51 54 sell_drugs_to | 24 27 93 96 traffic_in | 24 27 69 73 NA | 24 27 51 54 NA
+22 26 45 47 sell_drugs_to | 22 26 47 52 traffic_in | 57 59 8 18 NA | 47 52 45 47 NA
+80 82 150 153 sell_drugs_to | 80 82 154 157 sell_drugs_to | 90 94 111 113 traffic_in | 90 94 80 82 sell_drugs_to | 111 113 141 143 NA | 111 113 40 43 NA
+25 28 39 41 traffic_in | 25 28 30 33 sell_drugs_to | 67 70 80 83 sell_drugs_to | 141 144 155 160 traffic_in | 80 83 155 160 NA | 155 160 107 110 NA
+43 46 27 29 provide_shelter_for | 43 46 30 32 provide_shelter_for | 43 46 33 35 provide_shelter_for | 43 46 36 38 provide_shelter_for | 43 46 39 42 provide_shelter_for | 133 135 33 35 NA | 138 143 14 26 NA
+28 31 33 36 sell_drugs_to | 28 31 43 46 traffic_in | 78 81 99 102 traffic_in | 133 136 145 148 NA | 145 148 54 71 NA
+10 12 67 74 traffic_in | 10 12 54 56 sell_drugs_to | 10 12 85 90 traffic_in | 77 81 26 39 NA | 67 74 40 50 NA
+26 28 45 47 posess | 26 28 48 50 posess | 26 28 51 54 posess | 45 47 117 123 NA | 114 117 63 67 NA
+67 69 36 38 sell_drugs_to | 67 69 93 98 traffic_in | 67 69 99 101 traffic_in | 36 38 182 185 sell_drugs_to | 36 38 129 134 traffic_in | 129 134 139 159 NA | 251 253 67 69 NA
+106 108 135 137 sell_drugs_to | 106 108 121 126 traffic_in | 141 143 148 151 sell_drugs_to | 174 176 194 199 posess | 65 75 77 79 NA | 65 75 151 153 NA
+37 40 63 66 sell_drugs_to | 37 40 68 70 traffic_in | 70 74 9 12 NA | 70 74 63 66 NA
+31 33 71 76 traffic_in | 31 33 91 93 sell_drugs_to | 14 26 31 33 NA | 171 173 35 51 NA
+127 129 221 226 posess | 230 236 127 129 NA | 6 19 134 141 NA
+30 32 58 60 provide_shelter_for | 93 95 75 77 provide_shelter_for | 93 95 78 80 provide_shelter_for | 37 52 78 80 NA | 87 89 125 127 NA
+33 36 56 59 provide_shelter_for | 33 36 60 63 provide_shelter_for | 33 36 64 67 provide_shelter_for | 64 67 41 50 NA | 71 73 13 29 NA
+108 111 140 142 sell_drugs_to | 108 111 167 172 traffic_in | 108 111 189 192 NA | 43 46 140 142 NA
+24 26 63 68 posess | 76 82 7 19 NA | 63 68 24 26 NA
+21 24 116 121 posess | 66 72 21 24 NA | 66 72 116 121 NA
+32 34 59 64 traffic_in | 32 34 75 77 sell_drugs_to | 100 102 152 154 NA | 80 86 174 177 NA
+25 28 61 63 provide_shelter_for | 25 28 64 66 provide_shelter_for | 25 28 67 69 provide_shelter_for | 64 66 36 45 NA | 106 109 84 86 NA
+24 26 50 53 sell_drugs_to | 24 26 89 92 traffic_in | 29 42 89 92 NA | 24 26 29 42 NA
+28 31 141 146 posess | 34 41 82 89 NA | 131 137 34 41 NA
+50 53 99 104 posess | 7 19 50 53 NA | 87 93 99 104 NA
+19 21 29 31 sell_drugs_to | 19 21 43 45 sell_drugs_to | 19 21 54 56 sell_drugs_to | 19 21 62 67 traffic_in | 19 21 70 72 traffic_in | 19 21 32 43 NA | 54 56 123 128 NA
+24 26 46 48 sell_drugs_to | 24 26 49 51 sell_drugs_to | 24 26 57 64 traffic_in | 24 26 88 95 traffic_in | 57 64 88 95 NA | 181 186 169 176 NA
+51 54 96 101 posess | 30 44 112 117 NA | 130 133 155 158 NA
+32 34 36 39 provide_shelter_for | 32 34 40 43 provide_shelter_for | 32 34 44 47 provide_shelter_for | 32 34 48 50 provide_shelter_for | 32 34 51 54 provide_shelter_for | 32 34 86 88 NA | 40 43 51 54 NA
+17 19 35 37 provide_shelter_for | 17 19 38 40 provide_shelter_for | 17 19 41 43 provide_shelter_for | 17 19 44 47 provide_shelter_for | 35 37 17 19 NA | 44 47 57 59 NA
+35 38 47 50 sell_drugs_to | 176 179 165 168 traffic_in | 102 105 92 95 NA | 102 105 35 38 NA
+87 90 106 111 posess | 15 28 137 140 NA | 118 124 137 140 NA
+28 30 66 69 provide_shelter_for | 107 109 66 69 NA | 35 60 97 99 NA
+25 28 48 50 provide_shelter_for | 48 50 25 28 NA | 6 21 25 28 NA
+28 30 87 90 sell_drugs_to | 28 30 77 82 traffic_in | 28 30 83 85 traffic_in | 11 23 28 30 NA | 31 49 77 82 NA
+78 81 86 91 posess | 86 91 15 25 NA | 91 96 15 25 NA
+83 86 118 121 sell_drugs_to | 83 86 121 123 traffic_in | 80 82 66 69 NA | 149 152 66 69 NA
+25 27 77 80 sell_drugs_to | 25 27 53 56 traffic_in | 112 114 6 20 NA | 154 160 6 20 NA
+26 29 62 65 sell_drugs_to | 26 29 66 69 sell_drugs_to | 131 134 159 162 traffic_in | 96 99 66 69 NA | 167 172 62 65 NA
+10 12 79 81 sell_drugs_to | 10 12 66 71 traffic_in | 13 26 29 51 NA | 71 76 29 51 NA
+25 27 67 72 traffic_in | 25 27 76 78 traffic_in | 25 27 93 96 sell_drugs_to | 25 27 97 100 sell_drugs_to | 93 96 6 14 NA | 6 14 25 27 NA
+27 31 51 53 provide_shelter_for | 27 31 55 57 sell_drugs_to | 27 31 33 35 NA | 11 18 61 63 NA
+29 31 22 24 sell_drugs_to | 29 31 44 49 traffic_in | 22 24 150 155 NA | 110 112 176 181 NA
+10 13 35 37 provide_shelter_for | 47 49 14 28 NA | 35 37 10 13 NA
+16 19 64 69 traffic_in | 16 19 76 79 sell_drugs_to | 58 63 16 19 NA | 20 31 64 69 NA
+25 28 75 78 sell_drugs_to | 25 28 154 157 traffic_in | 99 102 29 47 NA | 7 20 75 78 NA
+28 31 32 35 sell_drugs_to | 28 31 83 86 traffic_in | 265 268 145 148 NA | 93 96 32 35 NA
+29 31 56 58 provide_shelter_for | 33 49 29 31 NA | 33 49 8 25 NA
+24 27 57 59 sell_drugs_to | 24 27 90 95 traffic_in | 90 95 7 19 NA | 57 59 28 42 NA
+27 29 33 35 provide_shelter_for | 27 29 36 38 provide_shelter_for | 27 29 39 41 provide_shelter_for | 33 35 6 23 NA | 36 38 6 23 NA
+45 47 48 50 sell_drugs_to | 71 73 109 114 traffic_in | 71 73 115 117 traffic_in | 20 22 45 47 NA | 61 66 206 210 NA
+16 18 46 48 traffic_in | 16 18 53 56 sell_drugs_to | 92 94 120 122 traffic_in | 92 94 127 130 sell_drugs_to | 165 167 193 195 traffic_in | 165 167 201 204 sell_drugs_to | 230 232 255 257 traffic_in | 230 232 262 265 sell_drugs_to | 288 290 319 321 traffic_in | 288 290 326 329 sell_drugs_to | 378 380 404 407 sell_drugs_to | 378 380 413 415 traffic_in | 64 67 193 195 NA | 359 361 144 146 NA
+22 24 41 43 provide_shelter_for | 22 24 8 15 NA | 41 43 8 15 NA
+24 26 68 70 sell_drugs_to | 24 26 168 173 traffic_in | 24 26 104 106 NA | 168 173 6 19 NA
+32 35 65 68 traffic_in | 32 35 69 72 sell_drugs_to | 90 93 121 124 NA | 99 103 38 45 NA
+30 32 20 23 sell_drugs_to | 70 72 105 108 sell_drugs_to | 70 72 109 112 sell_drugs_to | 175 177 155 158 traffic_in | 372 377 155 158 NA | 372 377 42 62 NA
+27 29 102 105 sell_drugs_to | 27 29 61 66 traffic_in | 27 29 83 90 traffic_in | 27 29 96 100 NA | 102 105 30 44 NA
+27 29 50 52 provide_shelter_for | 35 46 12 23 NA | 35 46 60 62 NA
+9 11 56 58 sell_drugs_to | 9 11 62 67 traffic_in | 56 58 9 11 NA | 36 53 20 33 NA
+46 49 71 74 sell_drugs_to | 46 49 75 78 sell_drugs_to | 46 49 79 82 sell_drugs_to | 75 78 79 82 NA | 71 74 79 82 NA
+33 36 88 90 sell_drugs_to | 33 36 80 82 traffic_in | 80 82 88 90 NA | 174 179 33 36 NA
+33 36 56 58 sell_drugs_to | 200 203 184 189 traffic_in | 33 36 56 58 NA | 14 28 116 118 NA
+27 29 52 57 traffic_in | 27 29 58 60 traffic_in | 27 29 73 75 sell_drugs_to | 30 44 52 57 NA | 27 29 58 60 NA
+23 25 67 70 sell_drugs_to | 23 25 55 57 traffic_in | 23 25 67 70 NA | 23 25 50 54 NA
+101 103 94 97 sell_drugs_to | 204 206 216 221 traffic_in | 43 45 127 130 NA | 157 159 216 221 NA
+204 206 272 277 posess | 204 206 306 309 posess | 14 27 272 277 NA | 272 277 228 234 NA
+24 26 85 87 sell_drugs_to | 24 26 165 170 traffic_in | 175 180 85 87 NA | 56 68 165 170 NA
+37 39 26 29 sell_drugs_to | 37 39 45 50 traffic_in | 37 39 51 53 traffic_in | 63 72 51 53 NA | 45 50 11 25 NA
+77 80 82 85 provide_shelter_for | 77 80 86 88 provide_shelter_for | 77 80 89 91 provide_shelter_for | 77 80 92 95 provide_shelter_for | 59 62 31 57 NA | 92 95 77 80 NA
+24 27 53 58 traffic_in | 24 27 76 78 sell_drugs_to | 24 27 76 78 NA | 24 27 53 58 NA
+44 47 27 29 sell_drugs_to | 104 107 111 113 traffic_in | 80 83 199 202 NA | 60 75 130 132 NA
+35 38 69 71 posess | 35 38 82 84 posess | 76 81 114 119 NA | 144 147 62 68 NA
+32 35 42 45 traffic_in | 32 35 65 68 sell_drugs_to | 160 163 14 27 NA | 32 35 160 163 NA
+33 36 158 161 traffic_in | 145 150 37 55 NA | 33 36 14 28 NA
+56 59 65 68 traffic_in | 56 59 33 35 sell_drugs_to | 56 59 30 32 sell_drugs_to | 88 91 113 115 sell_drugs_to | 96 99 119 121 NA | 158 160 113 115 NA
+25 27 75 77 sell_drugs_to | 25 27 108 111 traffic_in | 100 105 7 20 NA | 25 27 75 77 NA
+172 175 233 238 posess | 172 175 256 259 posess | 213 219 250 255 NA | 226 228 137 140 NA
+34 37 69 71 sell_drugs_to | 34 37 75 77 traffic_in | 34 37 16 29 NA | 122 140 69 71 NA
+13 16 22 27 posess | 13 16 34 37 posess | 22 27 34 37 NA | 13 16 34 37 NA
+39 42 31 35 sell_drugs_to | 115 118 123 125 traffic_in | 115 118 138 140 traffic_in | 164 169 128 133 NA | 138 140 39 42 NA
+130 133 134 139 posess | 63 66 73 74 NA | 103 106 73 74 NA
+33 36 95 98 provide_shelter_for | 33 36 99 102 provide_shelter_for | 33 36 103 106 provide_shelter_for | 33 36 107 110 provide_shelter_for | 33 36 111 113 provide_shelter_for | 33 36 114 117 provide_shelter_for | 103 106 45 65 NA | 114 117 107 110 NA
+35 38 24 26 sell_drugs_to | 35 38 48 50 traffic_in | 206 211 109 112 NA | 48 50 6 18 NA
+32 34 59 62 sell_drugs_to | 32 34 64 66 traffic_in | 32 34 69 71 traffic_in | 92 94 180 185 NA | 204 209 32 34 NA
+26 29 63 65 sell_drugs_to | 93 96 149 152 posess | 93 96 37 52 NA | 140 146 93 96 NA
+31 34 21 24 sell_drugs_to | 173 176 228 231 traffic_in | 90 93 135 139 NA | 135 139 101 104 NA
+25 28 68 71 sell_drugs_to | 25 28 52 54 traffic_in | 68 71 117 119 NA | 47 51 7 20 NA
+31 33 80 82 sell_drugs_to | 31 33 114 117 traffic_in | 106 111 114 117 NA | 31 33 14 26 NA
+24 27 111 116 posess | 111 116 28 31 NA | 24 27 121 123 NA
+69 72 79 82 sell_drugs_to | 24 27 42 46 traffic_in | 42 46 24 27 NA | 7 19 33 36 NA
+23 26 72 74 provide_shelter_for | 23 26 75 77 provide_shelter_for | 72 74 75 77 NA | 72 74 23 26 NA
+33 35 150 154 posess | 33 35 155 158 posess | 33 35 202 205 posess | 80 83 193 198 NA | 33 35 115 121 NA
+23 25 114 119 posess | 23 25 102 108 NA | 6 18 102 108 NA
+32 35 64 67 traffic_in | 32 35 69 72 sell_drugs_to | 87 90 102 105 sell_drugs_to | 87 90 105 108 traffic_in | 87 90 32 35 NA | 94 96 120 123 NA
+9 12 86 88 sell_drugs_to | 117 120 223 228 traffic_in | 117 120 253 257 traffic_in | 38 55 9 12 NA | 117 120 38 55 NA
+60 63 72 75 posess | 72 75 60 63 NA | 42 47 72 75 NA
+17 19 28 30 posess | 17 19 51 53 posess | 41 46 64 69 NA | 17 19 64 69 NA
+31 33 57 60 traffic_in | 31 33 70 73 sell_drugs_to | 57 60 134 137 NA | 70 73 31 33 NA
+179 182 247 249 sell_drugs_to | 378 381 404 407 traffic_in | 164 166 330 332 NA | 183 208 97 99 NA
+32 35 79 81 provide_shelter_for | 86 88 32 35 NA | 39 72 32 35 NA
+34 36 42 44 sell_drugs_to | 121 123 136 143 traffic_in | 121 123 160 165 traffic_in | 146 148 42 44 NA | 88 90 121 123 NA
+44 46 51 54 sell_drugs_to | 76 78 105 108 traffic_in | 94 97 7 19 NA | 94 97 44 46 NA
+55 57 78 81 sell_drugs_to | 78 81 71 73 posess | 90 93 103 106 sell_drugs_to | 143 146 150 155 posess | 71 73 36 42 NA | 71 73 174 180 NA
+29 31 17 19 sell_drugs_to | 225 227 275 278 posess | 225 227 304 309 posess | 225 227 304 309 NA | 127 129 304 309 NA
+59 62 79 84 posess | 38 47 194 197 NA | 103 108 151 154 NA
+56 58 76 81 posess | 56 58 97 104 posess | 97 104 14 27 NA | 14 27 82 84 NA
+24 30 66 68 provide_shelter_for | 24 30 69 72 provide_shelter_for | 24 30 93 95 provide_shelter_for | 24 30 96 98 provide_shelter_for | 103 108 143 148 NA | 78 83 103 108 NA
+108 110 115 122 posess | 141 143 154 161 posess | 37 52 208 210 NA | 108 110 154 161 NA
+87 90 97 102 posess | 108 114 77 80 NA | 105 107 87 90 NA
+40 43 59 64 posess | 40 43 80 87 posess | 80 87 91 93 NA | 65 67 59 64 NA
+10 13 55 58 provide_shelter_for | 10 13 59 61 provide_shelter_for | 14 29 10 13 NA | 55 58 14 29 NA
+29 31 58 60 provide_shelter_for | 29 31 61 63 provide_shelter_for | 29 31 64 66 provide_shelter_for | 29 31 68 70 provide_shelter_for | 64 66 121 123 NA | 61 63 64 66 NA
+63 66 77 82 posess | 29 31 6 19 NA | 29 31 192 197 NA
+42 44 29 31 sell_drugs_to | 42 44 64 69 traffic_in | 170 175 154 159 NA | 42 44 76 78 NA
+37 39 90 95 posess | 37 39 105 108 posess | 37 39 118 121 posess | 118 121 105 108 NA | 90 95 105 108 NA
+31 34 151 156 posess | 138 145 31 34 NA | 138 145 43 49 NA
+120 123 134 137 posess | 87 90 112 115 NA | 21 36 120 123 NA
+79 81 96 98 posess | 79 81 114 117 posess | 55 57 209 214 NA | 79 81 221 223 NA
+118 120 125 127 traffic_in | 118 120 153 155 sell_drugs_to | 51 60 138 143 NA | 153 155 156 158 NA
+41 44 72 75 provide_shelter_for | 41 44 76 79 provide_shelter_for | 84 86 45 65 NA | 89 98 81 83 NA
+25 27 49 51 traffic_in | 25 27 37 39 sell_drugs_to | 190 195 25 27 NA | 37 39 72 74 NA
+23 25 42 44 provide_shelter_for | 73 75 93 95 provide_shelter_for | 169 171 191 193 provide_shelter_for | 124 126 143 145 provide_shelter_for | 191 193 23 25 NA | 58 69 97 102 NA
+21 24 49 52 provide_shelter_for | 21 24 53 55 provide_shelter_for | 21 24 56 59 provide_shelter_for | 88 91 103 106 provide_shelter_for | 88 91 107 109 provide_shelter_for | 63 68 73 84 NA | 113 118 69 71 NA
+18 20 26 31 posess | 309 311 51 53 NA | 26 31 40 47 NA
+23 25 99 101 posess | 23 25 109 111 posess | 109 111 55 57 NA | 111 117 27 40 NA
+29 31 58 60 provide_shelter_for | 29 31 61 63 provide_shelter_for | 146 148 171 173 provide_shelter_for | 146 148 174 176 provide_shelter_for | 146 148 197 199 provide_shelter_for | 146 148 200 202 provide_shelter_for | 146 148 203 205 provide_shelter_for | 29 31 146 148 NA | 200 202 174 176 NA
+32 36 82 86 provide_shelter_for | 32 36 87 90 provide_shelter_for | 117 121 152 155 provide_shelter_for | 117 121 156 159 provide_shelter_for | 117 121 156 159 NA | 32 36 87 90 NA
+25 28 43 45 sell_drugs_to | 25 28 49 54 traffic_in | 183 188 43 45 NA | 43 45 7 20 NA
+50 53 128 131 traffic_in | 50 53 83 86 sell_drugs_to | 9 12 128 131 NA | 9 12 54 78 NA
+23 25 30 32 sell_drugs_to | 23 25 57 59 traffic_in | 121 133 203 205 NA | 34 51 57 59 NA
+28 31 18 21 sell_drugs_to | 28 31 37 42 traffic_in | 123 126 140 145 traffic_in | 123 126 108 111 sell_drugs_to | 174 177 123 126 NA | 174 177 195 200 NA
+35 37 26 29 sell_drugs_to | 55 57 62 64 traffic_in | 233 238 88 91 NA | 222 227 167 190 NA
+26 29 39 42 provide_shelter_for | 65 70 74 76 NA | 65 70 170 173 NA
+147 149 211 216 posess | 49 54 65 71 NA | 37 39 21 33 NA
+35 38 30 33 sell_drugs_to | 35 38 50 52 traffic_in | 175 178 193 198 posess | 204 210 14 26 NA | 175 178 103 106 NA
+23 26 55 58 provide_shelter_for | 23 26 86 89 provide_shelter_for | 23 26 90 92 provide_shelter_for | 55 58 121 126 NA | 119 121 60 62 NA
+25 27 62 65 traffic_in | 25 27 77 79 sell_drugs_to | 25 27 68 73 NA | 143 146 77 79 NA
+60 63 96 101 posess | 49 52 69 75 NA | 69 75 14 27 NA
+21 24 40 43 traffic_in | 21 24 46 49 sell_drugs_to | 21 24 50 53 sell_drugs_to | 21 24 54 57 sell_drugs_to | 71 74 90 95 traffic_in | 71 74 102 105 sell_drugs_to | 71 74 106 109 sell_drugs_to | 102 105 40 43 NA | 7 15 106 109 NA
+22 25 53 56 provide_shelter_for | 22 25 57 59 provide_shelter_for | 90 93 77 80 provide_shelter_for | 90 93 81 84 provide_shelter_for | 53 56 64 76 NA | 331 334 77 80 NA
+117 120 124 127 traffic_in | 117 120 160 163 sell_drugs_to | 117 120 26 29 NA | 39 50 132 137 NA
+18 21 52 55 sell_drugs_to | 18 21 56 59 sell_drugs_to | 18 21 60 63 sell_drugs_to | 18 21 44 47 traffic_in | 56 59 22 34 NA | 148 153 116 119 NA
+25 28 33 38 posess | 25 28 44 47 posess | 25 28 79 82 NA | 151 153 7 20 NA
+26 28 64 66 sell_drugs_to | 26 28 68 73 traffic_in | 68 73 26 28 NA | 128 130 26 28 NA
+27 30 58 61 provide_shelter_for | 27 30 62 65 provide_shelter_for | 27 30 66 69 provide_shelter_for | 87 89 124 127 NA | 58 61 31 54 NA
+192 195 198 201 sell_drugs_to | 192 195 205 208 traffic_in | 60 63 7 17 NA | 92 93 69 71 NA
+23 25 46 49 sell_drugs_to | 23 25 61 64 traffic_in | 61 64 116 119 NA | 6 18 84 87 NA
+30 33 37 40 provide_shelter_for | 30 33 41 44 provide_shelter_for | 30 33 45 48 provide_shelter_for | 90 93 96 99 NA | 104 107 96 99 NA
+34 36 78 80 posess | 34 36 85 87 posess | 178 183 81 84 NA | 18 30 178 183 NA
+30 32 33 35 sell_drugs_to | 30 32 66 68 traffic_in | 79 81 69 74 NA | 123 125 231 236 NA
+24 26 30 32 provide_shelter_for | 24 26 33 35 provide_shelter_for | 24 26 44 46 provide_shelter_for | 6 20 33 35 NA | 44 46 33 35 NA
+26 29 37 39 sell_drugs_to | 26 29 50 52 traffic_in | 26 29 66 68 traffic_in | 205 208 223 228 traffic_in | 14 22 81 87 NA | 50 52 116 123 NA
+33 35 56 58 provide_shelter_for | 33 35 59 61 provide_shelter_for | 33 35 62 64 provide_shelter_for | 68 70 11 29 NA | 74 76 33 35 NA
+24 27 201 206 posess | 7 19 123 129 NA | 7 19 201 206 NA
+32 34 80 82 sell_drugs_to | 32 34 112 115 traffic_in | 80 82 118 123 NA | 112 115 14 27 NA
+28 30 81 84 sell_drugs_to | 28 30 69 74 traffic_in | 28 30 75 77 traffic_in | 75 77 100 102 NA | 69 74 81 84 NA
+239 242 272 275 sell_drugs_to | 239 242 276 278 traffic_in | 324 327 74 82 NA | 109 112 375 378 NA
+36 39 72 74 provide_shelter_for | 36 39 76 78 provide_shelter_for | 72 74 85 90 NA | 43 66 76 78 NA
+9 11 79 84 posess | 36 43 9 11 NA | 12 27 79 84 NA
+89 91 51 53 sell_drugs_to | 89 91 93 100 traffic_in | 32 34 89 91 NA | 32 34 123 128 NA
+66 69 24 27 provide_shelter_for | 136 139 170 175 posess | 24 27 116 121 NA | 116 121 121 126 NA
+30 32 55 57 provide_shelter_for | 21 23 24 26 NA | 11 20 59 62 NA
+25 28 90 93 sell_drugs_to | 25 28 82 87 traffic_in | 82 87 25 28 NA | 7 20 25 28 NA
+25 27 29 32 sell_drugs_to | 25 27 37 40 traffic_in | 66 71 6 20 NA | 181 184 62 65 NA
+83 85 102 104 traffic_in | 83 85 117 120 sell_drugs_to | 42 44 153 156 NA | 117 120 83 85 NA
+36 39 68 71 provide_shelter_for | 112 115 138 141 provide_shelter_for | 46 66 166 169 NA | 146 149 166 169 NA
+29 32 41 44 sell_drugs_to | 29 32 74 76 traffic_in | 74 76 41 44 NA | 11 24 41 44 NA
+17 20 37 42 traffic_in | 102 105 37 42 NA | 37 42 17 20 NA
+25 28 62 64 sell_drugs_to | 25 28 66 71 traffic_in | 62 64 95 100 NA | 101 103 119 124 NA
+27 29 67 69 provide_shelter_for | 27 29 71 74 provide_shelter_for | 27 29 96 98 provide_shelter_for | 27 29 99 101 provide_shelter_for | 96 98 27 29 NA | 96 98 67 69 NA
+31 34 66 71 posess | 6 22 141 144 NA | 88 93 66 71 NA
+23 26 51 53 provide_shelter_for | 27 48 58 63 NA | 27 48 6 18 NA
+9 11 89 94 traffic_in | 9 11 105 108 sell_drugs_to | 81 86 98 100 NA | 9 11 98 100 NA
+23 26 79 81 sell_drugs_to | 23 26 59 64 traffic_in | 23 26 65 67 traffic_in | 23 26 65 67 NA | 79 81 59 64 NA
+10 12 56 58 sell_drugs_to | 10 12 71 73 sell_drugs_to | 10 12 88 90 traffic_in | 10 12 91 95 NA | 30 39 56 58 NA
+36 39 65 68 provide_shelter_for | 36 39 42 62 NA | 65 68 42 62 NA
+28 30 66 69 sell_drugs_to | 28 30 101 106 traffic_in | 7 23 66 69 NA | 91 96 28 30 NA
+23 26 33 35 posess | 37 40 149 152 NA | 37 40 27 29 NA
+36 38 143 146 traffic_in | 16 31 36 38 NA | 16 31 151 155 NA
+23 26 31 34 sell_drugs_to | 23 26 78 83 traffic_in | 78 83 31 34 NA | 78 83 23 26 NA
+25 28 89 91 sell_drugs_to | 25 28 95 100 traffic_in | 121 124 25 28 NA | 95 100 149 154 NA
+87 90 217 222 posess | 61 63 72 85 NA | 10 13 100 102 NA
+48 50 28 31 sell_drugs_to | 48 50 54 56 traffic_in | 155 158 195 197 posess | 111 114 54 56 NA | 98 101 14 24 NA
+64 67 72 79 posess | 64 67 92 97 posess | 53 56 64 67 NA | 130 135 72 79 NA
+25 27 143 148 traffic_in | 7 20 36 52 NA | 7 20 123 128 NA
