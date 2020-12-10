@@ -4,7 +4,7 @@
 
 Work for paper *Joint Entity and Relation Extraction for Legal Documents with Legal Feature Enhancement*.
 
-The data is shown in "./data", and the model is defined in "joint_model.py". Hyper parameters are set in "my_config.ini" .
+The data is shown in "./data", and the model is defined in "joint_model.py". Hyper parameters are set in "my_config.ini".
 
 #### Start
 
