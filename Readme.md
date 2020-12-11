@@ -2,7 +2,7 @@
 
 #### Introduction
 
-Work for paper ***Joint Entity and Relation Extraction for Legal Documents with Legal Feature Enhancement***,at COLING2020.
+Work for paper ***Joint Entity and Relation Extraction for Legal Documents with Legal Feature Enhancement***, at COLING2020.
 
 The data is shown in "./data", and the model is defined in "joint_model.py". Hyper parameters are set in "my_config.ini".
 
